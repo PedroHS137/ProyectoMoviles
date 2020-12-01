@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "378461044158",
+    "firebase_url": "https://controlcultivos-4efe1.firebaseio.com",
+    "project_id": "controlcultivos-4efe1",
+    "storage_bucket": "controlcultivos-4efe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378461044158:android:eeb13093351976302bcdef",
+        "android_client_info": {
+          "package_name": "com.example.Control_Cultivos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378461044158-5r0j2hshdg68v7t77frqgmbm8ekq1nqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Control_Cultivos",
+            "certificate_hash": "0102030405060708091011121314151617181920"
+          }
+        },
+        {
+          "client_id": "378461044158-7jf57ms6oh0pbra2r9b9cmumu4v10f97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JE9bEhnXd-UdnWaVw1CkHSAPLmqkG_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378461044158-7jf57ms6oh0pbra2r9b9cmumu4v10f97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
